@@ -12,6 +12,6 @@ Contributed by Yuxia Geng, Jiaoyan Chen, Zhuo Chen and Jeff Z. Pan.
 
     *Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata.* 
 
-2. **A Survey of Zero-Shot Learning: Settings, Methods, and Applications.** ACM TIST 2019. [[Paper]](https://www.ntulily.org/wp-content/uploads/journal/A_Survey_of_Zero-Shot_Learning_Settings_Methods_and_Applications_accepted.pdf){:target="_blank"}
+2. **A Survey of Zero-Shot Learning: Settings, Methods, and Applications.** ACM TIST 2019. [[Paper]](https://www.ntulily.org/wp-content/uploads/journal/A_Survey_of_Zero-Shot_Learning_Settings_Methods_and_Applications_accepted.pdf)
    
     *Wei  Wang, Vincent W Zheng, Han  Yu, Chunyan  Miao.* 
