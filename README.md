@@ -18,5 +18,4 @@ Contributed by Yuxia Geng, Jiaoyan Chen, Zhuo Chen and Jeff Z. Pan.
 
 ## [Must-read Papers](#content)
 1. **DeViSE: A Deep Visual-Semantic Embedding Model.** NIPS 2013. [[Paper]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41473.pdf)
-
 	*Andrea Frome, Gregory S. Corrado, Jonathon Shlens, Samy Bengio, Jeffrey Dean, Marc'Aurelio Ranzato, Tomás Mikolov.*
