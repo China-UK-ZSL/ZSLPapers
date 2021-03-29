@@ -29,11 +29,11 @@ Contributed by Yuxia Geng, Jiaoyan Chen, Zhuo Chen and Jeff Z. Pan.
 ## [Survey papers](#content)
 1. *Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata.* **Zero-Shot Learning -- A Comprehensive Evaluation of the Good, the Bad and the Ugly.** TPAMI 2018. [[Paper]](https://arxiv.org/pdf/1707.00600.pdf)
 
-    *Comment: focusing on evaluation* 
+    *Comment: focusing on evaluation*
 
 2. *Wei  Wang, Vincent W Zheng, Han  Yu, Chunyan  Miao.* **A Survey of Zero-Shot Learning: Settings, Methods, and Applications.** ACM TIST 2019. [[Paper]](https://www.ntulily.org/wp-content/uploads/journal/A_Survey_of_Zero-Shot_Learning_Settings_Methods_and_Applications_accepted.pdf)
    
-    *Comment: the categorization of methods.* 
+    *Comment: focusing on method categorization.* 
 
 
 ## [High-citation Papers](#content)
@@ -77,6 +77,15 @@ Contributed by Yuxia Geng, Jiaoyan Chen, Zhuo Chen and Jeff Z. Pan.
 1. *Pengda Qin, Xin Wang, Wenhu Chen, Chunyun Zhang, Weiran Xu, William Yang Wang.* **Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs.** AAAI 2020. [[Paper]](https://arxiv.org/pdf/2001.02332.pdf)
 
 	*Comment: knowledge graph completion, GAN*
+
+
+### [Attribute](#content)
+
+1. *Christoph H. Lampert, Hannes Nickisch, and Stefan Harmeling.* **Attribute-Based Classification for
+Zero-Shot Visual Object Categorization.** TPAMI 2013. [[Paper]](https://hannes.nickisch.org/papers/articles/lampert13attributes.pdf)
+
+	*Comment: attributes* 
+
 
 
 ### [Knowledge Graph](#content)
