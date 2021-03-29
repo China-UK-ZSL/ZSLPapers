@@ -12,17 +12,15 @@ Contributed by Yuxia Geng, Jiaoyan Chen, Zhuo Chen and Jeff Z. Pan.
 	<td colspan="2"><a href="#High-citation">2. High-citation Papers</a></td>
 </tr>
 <tr>
-	<td colspan="2"><a href="#External Knowledge">3. External Knowledge</a></td>
+	<td colspan="2"><a href="#external-knowledge">3. External Knowledge</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Text">3.1 Text</a></td>
-    <td></td>
-    <td>&ensp;<a href="#Attribute">3.2 Attribute</a></td>
+    <td>&emsp;<a href="#text">3.1 Text</a></td>
+    <td>&ensp;<a href="#attribute">3.2 Attribute</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#Knowledge">3.3 Knowledge Graph</a></td>
-    <td></td>
-    <td>&ensp;<a href="#logical">3.4 Logical Knowledge</a></td>
+    <td>&emsp;<a href="#knowledge-graph">3.3 Knowledge Graph</a></td>
+    <td>&ensp;<a href="#logical-knowledge">3.4 Logical Knowledge</a></td>
 </tr>
 
 </table>
