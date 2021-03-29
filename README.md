@@ -9,7 +9,7 @@ Contributed by Yuxia Geng, Jiaoyan Chen, Zhuo Chen and Jeff Z. Pan.
 </tr> 
 
 <tr>
-	<td colspan="2"><a href="#Must-read">2. Must-read Papers</a></td>
+	<td colspan="2"><a href="#Must-read">2. Must-read/High-citation Papers</a></td>
 </tr>
 
 <!-- <tr>
