@@ -29,11 +29,15 @@ Contributed by Yuxia Geng, Jiaoyan Chen, Zhuo Chen and Jeff Z. Pan.
 ## [Survey papers](#content)
 1. *Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata.* **Zero-Shot Learning -- A Comprehensive Evaluation of the Good, the Bad and the Ugly.** TPAMI 2018. [[Paper]](https://arxiv.org/pdf/1707.00600.pdf)
 
-    *Comment: focusing on evaluation*
+    *Comment: focusing on evaluation.*
 
 2. *Wei  Wang, Vincent W Zheng, Han  Yu, Chunyan  Miao.* **A Survey of Zero-Shot Learning: Settings, Methods, and Applications.** ACM TIST 2019. [[Paper]](https://www.ntulily.org/wp-content/uploads/journal/A_Survey_of_Zero-Shot_Learning_Settings_Methods_and_Applications_accepted.pdf)
    
     *Comment: focusing on method categorization.* 
+
+3. *Jiaoyan Chen, Yuxia Geng, Zhuo Chen, Ian Horrocks, Jeff Z. Pan, Huajun Chen.* **Knowledge-aware Zero-Shot Learning: Survey and Perspective.** IJCAI 2021. [[Paper]](https://arxiv.org/pdf/2103.00070.pdf)
+   
+    *Comment: focusing on the external knowledge used in ZSL.* 
 
 
 ## [High-citation Papers](#content)
